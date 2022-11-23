@@ -22,7 +22,7 @@ img {
 
 /*中のコンテンツ部分の最大幅を設定*/
 .inner {
-    max-width:600px;
+    max-width: 600px;
     margin: 0 auto;
 }
 
@@ -108,8 +108,10 @@ Detail
 }
 
 #detail .content dl {
-    display: flex; /*dtとddをよこ並びにする*/
-    flex-wrap: wrap;/*dtとddが100%になったら折り返す*/
+    display: flex;
+    /*dtとddをよこ並びにする*/
+    flex-wrap: wrap;
+    /*dtとddが100%になったら折り返す*/
     padding: 16px 0;
     margin-bottom: 25px;
     border-top: solid 1px #dedede;
@@ -161,12 +163,13 @@ sp
     #mainvisual {
         padding: 0 10px;
     }
-   
+
     /*------------------------
     detail
     -------------------------*/
-    #detail .content{
-        flex-direction: column; /*縦並び*/
+    #detail .content {
+        flex-direction: column;
+        /*縦並び*/
     }
 
     #detail .content .img {
