@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/web-dev-study/lesson3/reactProject/vite-react-tailwind/my-project/",
+  base: "/web-dev-study/",
   plugins: [react()]
 })
