@@ -23,7 +23,7 @@ function App() {
         <div className='flex container mx-auto py-20 px-5 flex-col md:flex-row items-center'>
           <div className='md:w-1/2 flex-grow mb-16 lg:pr-24 md:pr-16 text-center md:text-left'>
             <h1 className='text-3xl sm:text-6xl text-gray-900 font-medium mb-4'>Hi!<br />
-              I'm Yu<br />
+              I'm Yua<br />
               Web Developper Gorilla.
             </h1>
             <p className='mb-8 leading-relaxed'>
